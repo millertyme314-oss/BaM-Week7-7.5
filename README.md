@@ -1,6 +1,8 @@
 # BaM-Week7-7.5
-Deploy a proof of concept (POC) static website that is entirely automated with GCS (a GCP bucket)
+Deploy a proof of concept (POC) static website that is entirely automated with GCS (a GCP bucket) with some sample static assets I provide and an image of your choosing.
 
+## Mission:
+Generate a clickable static website via GCS and a personal image. Then, display the appropriate output.
 
 ## Deliverables:
 - The [URL]() of the website (leave it up, buckets are basically free)
